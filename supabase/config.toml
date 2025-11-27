@@ -1,0 +1,4 @@
+project_id = "brofjdndkwzbjpuyhlaq"
+
+[functions.match-careers]
+verify_jwt = true
